@@ -19,7 +19,9 @@ My name is Derek Shain. Currently I am a student at Boise Codeworks going throug
 ---
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekShain&theme=tokyonight&show_icons=true) <br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=derekshain&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekshain&theme=tokyonight&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=derekshain)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 ---
