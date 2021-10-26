@@ -18,9 +18,10 @@ My name is Derek Shain. Currently I am a student at Boise Codeworks going throug
 
 ---
 
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekShain&theme=dark&show_icons=true) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekshain&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-[![derekshain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=derekshain&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekShain&theme=dark&show_icons=true)
+<!-- [![derekshain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=derekshain&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
