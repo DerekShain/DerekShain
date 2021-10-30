@@ -21,7 +21,8 @@ My name is Derek Shain. Currently I am a student at Boise Codeworks going throug
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekshain&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerekShain&theme=dark&show_icons=true)
-<!-- [![derekshain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=derekshain&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7b1c7220-f93b-4525-9855-4df4f2303fe2&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -29,3 +30,4 @@ My name is Derek Shain. Currently I am a student at Boise Codeworks going throug
 ---
 
 ![](https://komarev.com/ghpvc/?username=DerekShain)
+[![wakatime](https://wakatime.com/badge/user/7b1c7220-f93b-4525-9855-4df4f2303fe2.svg)](https://wakatime.com/@7b1c7220-f93b-4525-9855-4df4f2303fe2)
