@@ -1,6 +1,6 @@
 # Welcome! #
 
-My name is Derek Shain. Currently I am a student at Boise Codeworks going through their immersive software developer program. I come from a wide background of technology and logistics and am eager to learn more when it comes to technology. 
+My name is Derek Shain. I am a Data Engineer/ Full Stack Developer. I come from a wide background of technology and logistics and am always looking to further develop and shape my skills.
 
 ---
 
