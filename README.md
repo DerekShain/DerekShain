@@ -30,4 +30,4 @@ My name is Derek Shain. I am a Data Engineer/ Full Stack Developer. I come from 
 ---
 
 ![](https://komarev.com/ghpvc/?username=DerekShain)
-[![wakatime](https://wakatime.com/badge/user/7b1c7220-f93b-4525-9855-4df4f2303fe2.svg)](https://wakatime.com/@7b1c7220-f93b-4525-9855-4df4f2303fe2)
+<!-- [![wakatime](https://wakatime.com/badge/user/7b1c7220-f93b-4525-9855-4df4f2303fe2.svg)](https://wakatime.com/@7b1c7220-f93b-4525-9855-4df4f2303fe2) -->
